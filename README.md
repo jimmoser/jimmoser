@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jimmoser
 - 👀 I’m interested in data science and statistics
-- 🌱 I’m currently learning python, SQL, and refreshing my linear algebra skills
+- 🌱 I’m continuing to sharpen my Python, R, SQL
+- 🎓 I'm earning my Masters of Science in Data Analytics through Georgia Tech
 - 📫 Find me on Twitter: @MoserJim
 
 <!---
