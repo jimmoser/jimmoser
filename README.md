@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimmoser
 - 👀 I’m interested in data science and statistics
-- 🌱 I’m continuing to sharpen my Python, R, SQL
+- 🌱 I’m continuing to sharpen my Python, R, SQL, and Tableau skills
 - 🎓 I'm earning my Masters of Science in Data Analytics through Georgia Tech
 - 📫 Find me on Twitter: @MoserJim
 
